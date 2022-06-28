@@ -1,0 +1,17 @@
+{
+  "name": "vscode-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/mian.js",
+  "scripts": {
+    "app": "node src/main.js",
+    "test": "jest tests/**/*.test.js",
+    "dev": "npm run test -- --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
