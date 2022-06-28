@@ -6,3 +6,7 @@ cd js-calc-jest-playground
 npm i
 npm run dev
 ```
+
+## RTFM
+
+- https://jestjs.io/uk/

@@ -5,7 +5,7 @@
   "main": "src/mian.js",
   "scripts": {
     "app": "node src/main.js",
-    "test": "jest tests/**/*.test.js",
+    "test": "jest",
     "dev": "npm run test -- --watchAll"
   },
   "keywords": [],
